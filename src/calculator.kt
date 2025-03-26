@@ -6,7 +6,7 @@ fun main() {
     println("enter firstnumber:")
     var firstnumber = read.nextDouble()
 
-    println("enter an operator:")
+    println("enter an operator of your choice (+,-,* or /) :")
     var operator = readln()
 
     println("enter secondnumber:")
